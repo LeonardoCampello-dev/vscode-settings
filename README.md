@@ -5,19 +5,15 @@
 
 ```json
 {
-    // Terminal
     "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
     
-    // Theme 🖤
     "workbench.colorTheme": "Omni",
     "workbench.iconTheme": "material-icon-theme",
     
-    // Font 
     "editor.fontFamily": "JetBrains Mono",
     "editor.fontSize": 13,
     "editor.fontLigatures": true,
 
-    // Window zoom 🔎
     "window.zoomLevel": 1.5,
 
     "npm-intellisense.importES6": true,
@@ -25,7 +21,6 @@
     "npm-intellisense.importLinebreak": ";\r\n",
     "npm-intellisense.importDeclarationType": "const",
     
-    // Nunjucks Template
     "files.associations": {
         "html": "njk"
     },
@@ -40,7 +35,6 @@
         }
     ],
     
-    // Emmet config
     "emmet.syntaxProfiles": {
         "javascript": "jsx"
     },
@@ -50,11 +44,9 @@
         "javascript": "javascriptreact"
     },
     
-    // Auto imports
     "javascript.suggest.autoImports": true,
     "typescript.suggest.autoImports": true,
     
-    // Others
     "breadcrumbs.enabled": true,
     "editor.parameterHints.enabled": false,
     "explorer.confirmDragAndDrop": false,
